@@ -1,16 +1,16 @@
 # KanyeWestRestApi
 
-REST API project
+# REST API project
 A simple application that takes random Kanye West's quotes and analysis positive, negative and neutral with the polarity aspect and tries to find the most extreme one.
 
 
-Installation
+# Installation
 To install the application please follow these steps:
 
 - Clone or download this repository.
 Use a password-protected SSH key or use git or checkout with SVN using the web URL.
 
-Running application
+# Running application
 To run the application please follow these steps:
 
 - Open the project in PyCharm or VS code.
