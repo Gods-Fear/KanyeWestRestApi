@@ -1,6 +1,4 @@
 # KanyeWestRestApi
-
-# REST API project
 A simple application that takes random Kanye West's quotes and analysis positive, negative and neutral with the polarity aspect and tries to find the most extreme one.
 
 
